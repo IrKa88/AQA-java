@@ -1,0 +1,3 @@
+cd C:\Users\ikonovalova\Documents\GitHub\AQA-java\sandbox
+C:\Devel\gradle-6.0\bin\gradle  build
+C:\Devel\gradle-6.0\bin\gradle  run
